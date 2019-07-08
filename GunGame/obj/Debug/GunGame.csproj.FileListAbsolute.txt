@@ -1,0 +1,15 @@
+C:\Users\S\source\repos\GunGame\GunGame\bin\Debug\GunGame.dll
+C:\Users\S\source\repos\GunGame\GunGame\bin\Debug\GunGame.pdb
+C:\Users\S\source\repos\GunGame\GunGame\bin\Debug\Newtonsoft.Json.dll
+C:\Users\S\source\repos\GunGame\GunGame\bin\Debug\OTAPI.dll
+C:\Users\S\source\repos\GunGame\GunGame\bin\Debug\TerrariaServer.exe
+C:\Users\S\source\repos\GunGame\GunGame\bin\Debug\TShockAPI.dll
+C:\Users\S\source\repos\GunGame\GunGame\bin\Debug\HttpServer.dll
+C:\Users\S\source\repos\GunGame\GunGame\bin\Debug\MySql.Data.dll
+C:\Users\S\source\repos\GunGame\GunGame\bin\Debug\BCrypt.Net.dll
+C:\Users\S\source\repos\GunGame\GunGame\bin\Debug\Mono.Data.Sqlite.dll
+C:\Users\S\source\repos\GunGame\GunGame\obj\Debug\GunGame.csproj.CoreCompileInputs.cache
+C:\Users\S\source\repos\GunGame\GunGame\obj\Debug\GunGame.csproj.CopyComplete
+C:\Users\S\source\repos\GunGame\GunGame\obj\Debug\GunGame.dll
+C:\Users\S\source\repos\GunGame\GunGame\obj\Debug\GunGame.pdb
+C:\Users\S\source\repos\GunGame\GunGame\obj\Debug\GunGame.csprojAssemblyReference.cache
