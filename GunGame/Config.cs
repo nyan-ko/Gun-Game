@@ -13,10 +13,27 @@ namespace GunGame
     public class Config
     {
         public int killsRequired;
+
         public List<int> weaponList = new List<int>()
         {
             
         };
+        public List<int> ammoList = new List<int>()
+        {
+            
+        };
+        public List<int> armorList = new List<int>()
+        {
+            
+        };
+        public List<int> accessoryList = new List<int>()
+        {
+            
+        };
+
+        public bool armor;
+        public bool ammo;
+        public bool accessory;
         
         public float xr;
         public float xb;
@@ -61,6 +78,11 @@ namespace GunGame
                 Console.WriteLine(ex.ToString());
             }
             return file;
+        }
+
+        public void Write(string path)
+        {
+            File.WriteAllText(path, JsonConvert.SerializeObject(this, Formatting.Indented));
         }
         #endregion
     }
